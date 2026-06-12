@@ -1,0 +1,6 @@
+{
+  "name": "Pixel.X",
+  "description": "A professional, private full-stack system for trade tracking, journal entry management, AI risk analysis and pips calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
